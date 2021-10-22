@@ -1,0 +1,1 @@
+This is a short overview of automated testing. also Contains a pdf explaining some of the bugs that exist in the code for this tic tac toe game.
